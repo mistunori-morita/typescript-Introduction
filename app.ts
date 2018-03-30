@@ -1,0 +1,3 @@
+class Ap {
+    name: string;
+}

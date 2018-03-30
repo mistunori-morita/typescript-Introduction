@@ -31,4 +31,10 @@ var Exmaple = /** @class */ (function () {
 
 
 ### 余談visual stdio code
-- ターミナル開くにはalt＋コントロール＋T（表示→統合ターミナル）
+- ターミナル開くにはalt＋コントロール＋T（表示→統合ターミナル） 
+
+
+## コンパイルについて
+- `tsc --init`でtsconfig.jsonを作成
+- watch機能を使って自動コンパイル
+- `tsc -watch xxx.ts`にすると自動コンパイルができる
