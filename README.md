@@ -28,3 +28,7 @@ var Exmaple = /** @class */ (function () {
     return Exmaple;
 }());
 ```
+
+
+### 余談visual stdio code
+- ターミナル開くにはalt＋コントロール＋T（表示→統合ターミナル）
